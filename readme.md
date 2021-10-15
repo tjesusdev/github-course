@@ -7,3 +7,6 @@ Aula 02
 
 
 Levanto modificação para o Git...
+
+
+Commitando sozinho!!!
